@@ -222,7 +222,7 @@ function Hero() {
             <h2
               id="typing"
               ref={typingRef}
-              className="hero-subtitle mt-4 min-h-[36px] text-xl text-zinc-400 sm:text-2xl md:text-3xl"
+              className="hero-subtitle mt-4 min-h-[36px] text-xl text-zinc-200 sm:text-2xl md:text-3xl"
             >
               Laravel Developer
             </h2>
@@ -259,7 +259,7 @@ function Hero() {
               </div>
             </div>
 
-            <p className="hero-text mt-6 max-w-xl text-base leading-7 text-zinc-500 sm:mt-8 sm:text-lg sm:leading-8">
+            <p className="hero-text mt-6 max-w-xl text-base leading-7 text-zinc-200 sm:mt-8 sm:text-lg sm:leading-8">
               I build scalable backend applications using Laravel and PHP,
               with clean architecture, secure APIs, and efficient database
               solutions.
@@ -311,7 +311,7 @@ function Hero() {
                     </a>
 
                     <a
-                      href="https://wa.me/+0201122876999"
+                      href="https://wa.me/eslamellaly74"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="social-icon"

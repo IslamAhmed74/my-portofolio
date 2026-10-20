@@ -52,7 +52,7 @@ function Contact() {
             Let's <span className="text-violet-500">Talk</span>
           </h2>
 
-          <p className="mx-auto mt-5 max-w-2xl text-base leading-7 text-zinc-400 sm:mt-6 sm:text-lg sm:leading-8">
+          <p className="mx-auto mt-5 max-w-2xl text-base leading-7 text-zinc-300 sm:mt-6 sm:text-lg sm:leading-8">
             Have a project in mind or want to get in touch?
             Feel free to reach out. I'd love to hear from you.
           </p>

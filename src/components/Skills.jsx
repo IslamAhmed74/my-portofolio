@@ -87,7 +87,7 @@ function Skills() {
             </span>
           </h2>
 
-          <p className="mx-auto mt-5 max-w-2xl text-base leading-7 text-zinc-400 sm:mt-6 sm:text-lg sm:leading-8">
+          <p className="mx-auto mt-5 max-w-2xl text-base leading-7 text-zinc-300 sm:mt-6 sm:text-lg sm:leading-8">
             Technologies, tools and frameworks I use to build
             modern, scalable and high-performance applications.
           </p>

@@ -66,7 +66,7 @@ function About() {
             </h3>
 
             <p
-              className="mt-6 text-base leading-7 text-zinc-400
+              className="mt-6 text-base leading-7 text-zinc-200
               sm:mt-8 sm:text-lg sm:leading-8"
             >
               I build scalable backend applications using Laravel and PHP,

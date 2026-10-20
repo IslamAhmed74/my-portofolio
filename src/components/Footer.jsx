@@ -33,7 +33,7 @@ function Footer() {
           </a>
 
           {/* Copyright */}
-          <p className="order-3 text-center text-xs text-zinc-500 sm:text-sm md:order-none">
+          <p className="order-3 text-center text-xs text-zinc-400 sm:text-sm md:order-none">
             © {currentYear} Islam Ahmed. All rights reserved.
           </p>
 

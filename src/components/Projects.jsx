@@ -28,7 +28,7 @@ function Projects() {
             <span className="text-violet-500">Projects</span>
           </h2>
 
-          <p className="mx-auto mt-5 max-w-2xl text-base leading-7 text-zinc-400 sm:mt-6 sm:text-lg sm:leading-8">
+          <p className="mx-auto mt-5 max-w-2xl text-base leading-7 text-zinc-300 sm:mt-6 sm:text-lg sm:leading-8">
             Some of the projects I've built using modern technologies.
           </p>
         </div>
